@@ -4,7 +4,7 @@ I CAN TURN YOUR IDEAS TO REAL SOFTWARE
 - 🌱 I’m currently learning asp.net core / Spring Boot, and preperaring for AWS Archritect Solution Certificate
 - 💞️ I’m looking to collaborate on scalable projects, more specifically great SAAS ideas using Artificial Intelligence and Machine Learning
 - 📫 You can contact me @: k.benlghalia@gmail.com
-- "Work hard. Have fun. Make history"
+
 
 <!---
 karim-benlghalia/karim-benlghalia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
